@@ -20,5 +20,4 @@ Le suivi d'un rucher nécessite beaucoup de déplacements pour le suivi de la co
 <hr>
 </br>
 Site WEB: </br> 
-• Base du template SB Admin 2
-• La partie admin est entiérement créer par moi.
+• Base du template <a target="_BLANK" href="https://startbootstrap.com/template-overviews/sb-admin-2/">SB Admin 2</a>
